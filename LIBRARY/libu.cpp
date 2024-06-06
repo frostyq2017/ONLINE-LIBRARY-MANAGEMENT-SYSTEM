@@ -121,7 +121,7 @@ public:
 void runLibrarySystem() {
     Library lib;
 
-    // Add predefined books
+    // Add books
     lib.addBook(Book(1, "Doll's House", "Author1", "Genre1"));
     lib.addBook(Book(2, "The River and the Source", "Author2", "Genre2"));
     lib.addBook(Book(3, "Goon", "Author3", "Genre3"));
